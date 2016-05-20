@@ -6,7 +6,7 @@ The Simple Architecture for XML Binding (SAXB) is a much lighter and easy to use
 
 ## Quick Start Guide
 
-SAXB has the same API as the JAXB for it's marshaling and unmarshaling prcoess. It allows you to define SAXBContext by using classes, classes or packagenames.
+SAXB has the same API as the JAXB for it's marshaling and unmarshaling prcoess. It allows you to define SAXBContext by using class names, classes or packagenames.
 SAXB does not require a jaxb.index file but instead it's been implemented to be able to reflect all the classes under a specific, user-defined package.
 
 **Unmarshalling**
